@@ -38,6 +38,8 @@ nav:
   - k8s:
     - 无状态服务和有状态服务的区别: k8s/无状态服务和有状态服务的区别.md
     - 什么情况下需要手动创建endpoint: k8s/什么情况下需要手动创建endpoint.md
+  - 云技术:
+    - vps和云主机区别: 云技术/vps和云主机区别.md
     
   # - 教程:
   #     - 快速开始: tutorial/getting-started.md
