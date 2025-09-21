@@ -1,0 +1,46 @@
+site_name: 爱吃卤菜
+site_url: https://www.anycastol.com   # 你的网站地址（可选）
+repo_url: https://github.com/yourname/yourrepo   # GitHub 仓库地址（可选）
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - search.highlight
+    - search.share
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: pink
+    - scheme: slate
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: 切换到深色模式
+
+plugins:
+  - search
+  - minify:               # 压缩 HTML/CSS/JS
+      minify_html: true
+      minify_js: true
+      minify_css: true
+  # - redirects:            # 设置页面跳转
+  #     redirect_maps:
+  #       'old-page.md': 'new-page.md'
+  #       'guide/intro.md': 'tutorial/getting-started.md'
+
+nav:
+  - 首页: index.md
+  - k8s:
+    - 无状态服务和有状态服务的区别: k8s/无状态服务和有状态服务的区别.md
+    - 什么情况下需要手动创建endpoint: k8s/什么情况下需要手动创建endpoint.md
+    
+  # - 教程:
+  #     - 快速开始: tutorial/getting-started.md
+  #     - 进阶指南: tutorial/advanced.md
+
+
