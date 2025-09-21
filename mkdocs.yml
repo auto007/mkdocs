@@ -1,6 +1,6 @@
 site_name: 爱吃卤菜
 site_url: https://www.anycastol.com   # 你的网站地址（可选）
-repo_url: https://github.com/yourname/yourrepo   # GitHub 仓库地址（可选）
+repo_url: https://github.com/auto007/mkdocs.git   # GitHub 仓库地址（可选）
 
 theme:
   name: material
