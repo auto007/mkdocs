@@ -36,10 +36,20 @@ plugins:
 nav:
   - 首页: index.md
   - k8s:
+    - 文件存储块存储对象存储区别: k8s/文件存储块存储对象存储区别.md
     - 无状态服务和有状态服务的区别: k8s/无状态服务和有状态服务的区别.md
     - 什么情况下需要手动创建endpoint: k8s/什么情况下需要手动创建endpoint.md
+    - prometheus: k8s/prometheus.md
+  - linux:
+    - 内核参数提升网络传输速度: linux/内核参数提升网络传输速度.md
+    - curl参数: linux/curl参数.md
+    - Rocky9安装Podman: linux/Rocky9安装Podman.md
+    - dockerfile里CMD和ENTRYPOINT区别: linux/dockerfile里CMD和ENTRYPOINT区别.md
   - 云技术:
     - vps和云主机区别: 云技术/vps和云主机区别.md
+  - 生活相关:
+    - 贷款利息: 生活相关/贷款利息.md
+    - 车贷: 生活相关/车贷.md
     
   # - 教程:
   #     - 快速开始: tutorial/getting-started.md
