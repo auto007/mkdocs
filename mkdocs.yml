@@ -39,6 +39,14 @@ nav:
     - 文件存储块存储对象存储区别: k8s/文件存储块存储对象存储区别.md
     - 无状态服务和有状态服务的区别: k8s/无状态服务和有状态服务的区别.md
     - 什么情况下需要手动创建endpoint: k8s/什么情况下需要手动创建endpoint.md
+    - pv与pvc: k8s/pv与pvc.md
+    - StorageClass 使用的场景: k8s/StorageClass 使用的场景.md
+    - 污点和容忍: k8s/污点和容忍.md
+    - 污点和容忍与nodeselector区别: k8s/污点和容忍与nodeselector区别.md
+    - affinity亲和性: k8s/affinity亲和性.md
+    - LimitRange: k8s/LimitRange.md
+    - ResourceQuota: k8s/ResourceQuota.md
+    - LimitRange和ResourceQuota联合使用: k8s/LimitRange和ResourceQuota联合使用.md
     - prometheus: k8s/prometheus.md
   - linux:
     - 内核参数提升网络传输速度: linux/内核参数提升网络传输速度.md
