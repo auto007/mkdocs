@@ -2,82 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.anycastol.com/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/k8s/LimitRange/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/k8s/LimitRange%E5%92%8CResourceQuota%E8%81%94%E5%90%88%E4%BD%BF%E7%94%A8/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/k8s/ResourceQuota/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/k8s/StorageClass%20%E4%BD%BF%E7%94%A8%E7%9A%84%E5%9C%BA%E6%99%AF/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/k8s/affinity%E4%BA%B2%E5%92%8C%E6%80%A7/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/k8s/prometheus/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/k8s/pv%E4%B8%8Epvc/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/k8s/%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E9%9C%80%E8%A6%81%E6%89%8B%E5%8A%A8%E5%88%9B%E5%BB%BAendpoint/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/k8s/%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8%E5%9D%97%E5%AD%98%E5%82%A8%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8%E5%8C%BA%E5%88%AB/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/k8s/%E6%97%A0%E7%8A%B6%E6%80%81%E6%9C%8D%E5%8A%A1%E5%92%8C%E6%9C%89%E7%8A%B6%E6%80%81%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/k8s/%E6%B1%A1%E7%82%B9%E5%92%8C%E5%AE%B9%E5%BF%8D/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/k8s/%E6%B1%A1%E7%82%B9%E5%92%8C%E5%AE%B9%E5%BF%8D%E4%B8%8Enodeselector%E5%8C%BA%E5%88%AB/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/linux/Rocky9%E5%AE%89%E8%A3%85Podman/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/linux/curl%E5%8F%82%E6%95%B0/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.anycastol.com/linux/dig%E5%91%BD%E4%BB%A4/</loc>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/linux/dockerfile%E9%87%8CCMD%E5%92%8CENTRYPOINT%E5%8C%BA%E5%88%AB/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/linux/%E5%86%85%E6%A0%B8%E5%8F%82%E6%95%B0%E6%8F%90%E5%8D%87%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%BE%93%E9%80%9F%E5%BA%A6/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.anycastol.com/linux/%E5%B8%B8%E7%94%A8/</loc>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/%E4%BA%91%E6%8A%80%E6%9C%AF/vps%E5%92%8C%E4%BA%91%E4%B8%BB%E6%9C%BA%E5%8C%BA%E5%88%AB/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
+    </url>
+    <url>
+         <loc>https://www.anycastol.com/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql/</loc>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/%E7%94%9F%E6%B4%BB%E7%9B%B8%E5%85%B3/%E8%B4%B7%E6%AC%BE%E5%88%A9%E6%81%AF/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
     <url>
          <loc>https://www.anycastol.com/%E7%94%9F%E6%B4%BB%E7%9B%B8%E5%85%B3/%E8%BD%A6%E8%B4%B7/</loc>
-         <lastmod>2025-10-18</lastmod>
+         <lastmod>2025-10-19</lastmod>
     </url>
 </urlset>
