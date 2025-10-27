@@ -47,7 +47,7 @@ spec:
     spec:
       containers:
         - name: mysql
-          image: registry.cn-hangzhou.aliyuncs.com/caixu/mysql:5.7.23
+          image: registry.cn-hangzhou.aliyuncs.com/xxx/mysql:5.7.23
           command: ["/bin/sh", "-c"]
           args:
               - |

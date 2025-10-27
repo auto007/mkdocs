@@ -36,7 +36,7 @@ spec:
     spec:
       containers:
       - name: redis
-        image: redis:7.2
+        image: registry.cn-hangzhou.aliyuncs.com/xxx/redis:7.2
         ports:
         - containerPort: 6379
           name: redis

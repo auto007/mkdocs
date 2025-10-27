@@ -54,6 +54,7 @@ nav:
     - LimitRange和ResourceQuota联合使用: k8s/LimitRange和ResourceQuota联合使用.md
     - StorageClass使用的场景: k8s/StorageClass使用的场景.md 
     - prometheus: k8s/prometheus.md
+    - prometheus监控mysql: k8s/prometheus监控mysql.md
   - linux:
     - 常用: linux/常用.md
     - 内核参数提升网络传输速度: linux/内核参数提升网络传输速度.md
