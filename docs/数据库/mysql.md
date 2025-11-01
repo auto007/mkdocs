@@ -44,6 +44,8 @@ DML 是 **Data Manipulation Language** 的缩写，意思是“**数据操作语
 
 ### 常用语句
 ```shell
+mysql -h127.0.0.1 -uroot -p --ssl-mode=DISABLED
+
 mysqldump -uroot -p123456 -R -E --default-character-set=utf8mb4 --set-gtid-purged=OFF dbname table_name > a.sql
 
 mysql -uroot -p123456 --default-character-set=utf8mb4 -vvv -c dbname   < a.sql   > a.log
