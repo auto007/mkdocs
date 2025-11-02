@@ -21,10 +21,6 @@
          <lastmod>2025-11-02</lastmod>
     </url>
     <url>
-         <loc>https://www.anycastol.com/k8s/Prometheus%E9%9D%99%E6%80%81%E9%85%8D%E7%BD%AE%E7%9A%84%E6%96%B9%E5%BC%8F%E8%BF%9B%E8%A1%8C%E9%BB%91%E7%9B%92%E7%9B%91%E6%8E%A7/</loc>
-         <lastmod>2025-11-02</lastmod>
-    </url>
-    <url>
          <loc>https://www.anycastol.com/k8s/ResourceQuota/</loc>
          <lastmod>2025-11-02</lastmod>
     </url>
@@ -62,6 +58,10 @@
     </url>
     <url>
          <loc>https://www.anycastol.com/k8s/prometheus%E7%9B%91%E6%8E%A7mysql/</loc>
+         <lastmod>2025-11-02</lastmod>
+    </url>
+    <url>
+         <loc>https://www.anycastol.com/k8s/prometheus%E9%9D%99%E6%80%81%E9%85%8D%E7%BD%AE%E7%9A%84%E6%96%B9%E5%BC%8F%E8%BF%9B%E8%A1%8C%E9%BB%91%E7%9B%92%E7%9B%91%E6%8E%A7/</loc>
          <lastmod>2025-11-02</lastmod>
     </url>
     <url>
