@@ -58,6 +58,8 @@ nav:
     - prometheus监控mysql: k8s/prometheus监控mysql.md
     - prometheus监控kube-controller-manager: k8s/prometheus监控kube-controller-manager.md
     - prometheus监控kubernetes-system-scheduler: k8s/prometheus监控kubernetes-system-scheduler.md
+    - 黑盒监控和白盒监控的区别: k8s/黑盒监控和白盒监控的区别.md
+    - Prometheus静态配置的方式进行黑盒监控: k8s/Prometheus静态配置的方式进行黑盒监控.md
   - linux:
     - 常用: linux/常用.md
     - 内核参数提升网络传输速度: linux/内核参数提升网络传输速度.md
