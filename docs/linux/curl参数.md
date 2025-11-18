@@ -19,3 +19,7 @@
 - **`-d` (或 `--data`)** 默认会让 `curl` 使用 **POST** 请求，并把你写的内容作为请求体发送。
     
 - `-H "Content-Type: application/json"` 说明请求体是 JSON 格式。
+
+`curl -I` 命令用于向服务器发送 **HEAD** 请求，仅获取响应头（HTTP headers），而不下载实际的响应体内容。这在调试或检查服务器响应信息时非常有用。
+
+curl -I -H 'Host:nginx.test.com' 10.96.21.102
