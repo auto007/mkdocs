@@ -70,14 +70,16 @@ nav:
     - dockerfile里CMD和ENTRYPOINT区别: linux/dockerfile里CMD和ENTRYPOINT区别.md
     - 镜像推送阿里云: linux/镜像推送阿里云.md
     - 基于官方nginx镜像制作镜像: linux/基于官方nginx镜像制作镜像.md
-  - 云技术:
-    - vps和云主机区别: 云技术/vps和云主机区别.md
   - 数据库:
     - mysql: 数据库/mysql.md
     - mysql自动重启: 数据库/mysql自动重启.md
   - 生活相关:
     - 贷款利息: 生活相关/贷款利息.md
     - 车贷: 生活相关/车贷.md
+  - 其它:
+    - vps和云主机区别: 其它/vps和云主机区别.md
+    - vscode写shell推荐的插件: 其它/vscode写shell推荐的插件.md
+    - windows系统安装mkvirtualenv: 其它/windows系统安装mkvirtualenv.md
     
     
   # - 教程:
