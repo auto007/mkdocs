@@ -40,6 +40,14 @@ Podman 的命令几乎与 Docker 一致，只是默认不需要守护进程。
 
 `podman-compose up -d`
 
+其它安装方法
+```shell
+dnf install -y python3-pip
+pip3 install podman-compose
+podman-compose --version
+
+```
+
 ## 容器开机自启
 
 ### 1. 确认容器存在

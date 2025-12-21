@@ -61,15 +61,19 @@ nav:
     - 黑盒监控和白盒监控的区别: k8s/黑盒监控和白盒监控的区别.md
     - prometheus静态配置的方式进行黑盒监控: k8s/prometheus静态配置的方式进行黑盒监控.md
     - IngressNginx: k8s/IngressNginx.md
+    - jenkins配置: k8s/jenkins配置.md
   - linux:
     - 常用: linux/常用.md
     - 内核参数提升网络传输速度: linux/内核参数提升网络传输速度.md
     - curl参数: linux/curl参数.md
     - dig命令: linux/dig命令.md
     - Rocky9安装Podman: linux/Rocky9安装Podman.md
+    - Rocky9安装docker: linux/Rocky9安装docker.md
     - dockerfile里CMD和ENTRYPOINT区别: linux/dockerfile里CMD和ENTRYPOINT区别.md
     - 镜像推送阿里云: linux/镜像推送阿里云.md
     - 基于官方nginx镜像制作镜像: linux/基于官方nginx镜像制作镜像.md
+    - 安装gitlab: linux/安装gitlab.md
+    - containerd配置私有仓库: linux/containerd配置私有仓库.md
   - 数据库:
     - mysql: 数据库/mysql.md
     - mysql自动重启: 数据库/mysql自动重启.md
