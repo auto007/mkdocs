@@ -1,4 +1,4 @@
-k8s 集群是用kubeadmin 搭建的,  https://github.com/prometheus-operator/kube-prometheus 已安装好
+我的 k8s 集群是用kubeadmin 搭建的,  https://github.com/prometheus-operator/kube-prometheus 已安装好
 ```shell
 kubectl get po -n monitoring -l app.kubernetes.io/name=blackbox-exporter
 kubectl get svc -n monitoring -l app.kubernetes.io/name=blackbox-exporter
