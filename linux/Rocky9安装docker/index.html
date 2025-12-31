@@ -42,7 +42,7 @@ docker compose --help
 </code></pre> <p>配置私有仓库</p> <pre><code class=language-shell>cat /etc/docker/daemon.json
 {
     &quot;exec-opts&quot;: [&quot;native.cgroupdriver=systemd&quot;],
-    &quot;insecure-registries&quot;: [&quot;192.168.124.70&quot;]
+    &quot;insecure-registries&quot;: [&quot;192.168.124.70:80&quot;]
 }
 #默认情况下，Docker 只信任HTTPS的镜像仓库。
 #如果你有一个自建的私有仓库（比如用 Harbor 或简单 registry），而且没有配置 HTTPS，Docker 会拒绝连接。
